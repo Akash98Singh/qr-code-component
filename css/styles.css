@@ -1,0 +1,38 @@
+body{
+    background-color: #CBF1F5;
+}
+
+.container{
+    
+    background-color: hsl(0, 0%, 100%);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.qr-code-img{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+h3{
+    font-family: 'Outfit',sans-serif;
+    margin: 10px;
+}
+
+p{
+    font-family: 'Outfit',sans-serif;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.attribution{
+    position: absolute;
+    bottom: 10px;
+}
